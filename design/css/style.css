@@ -155,7 +155,7 @@ section {
 
 button {
     border-radius: 25px;
-    background: linear-gradient(50deg, var(--accent-color-cyan), var(--accent-color-blue));
+    background: skyblue;
     border: none;
     font-family: var(--font-heading);
     color: var(--neutral-color-white);
